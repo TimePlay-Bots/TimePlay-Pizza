@@ -1,0 +1,25 @@
+{
+  "name": "timeplay-pizza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimePlay-Bots/TimePlay-Pizza.git"
+  },
+  "author": "TimePlay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimePlay-Bots/TimePlay-Pizza/issues"
+  },
+  "homepage": "https://github.com/TimePlay-Bots/TimePlay-Pizza#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.1.0"
+  }
+}

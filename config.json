@@ -1,0 +1,11 @@
+{
+    "status": "dnd",
+    "activities": [
+        "$prefixhelp",
+        "TimePlay",
+        "invite.gg/time",
+        "Über $guilds Server"
+    ],
+    "activityType": "Watching",
+    "prefix": "p!"
+}
